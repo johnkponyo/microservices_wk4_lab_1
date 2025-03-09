@@ -50,7 +50,7 @@ Simply push changes to the repository, and the GitHub Actions workflow will auto
 
 ## Link
 
-- [Amazon ECR Repository](https://gallery.ecr.aws/xyz123/johnkponyo_url-shortener)
+- [Amazon ECR Repository](https://gallery.ecr.aws/u1k7f1w4/kponyojdk-ecr-repo)
 
 ## License
 
